@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:yiyuancoder/yiyuangamecases.github.io.git
+  branch: main
